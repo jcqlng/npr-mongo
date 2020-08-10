@@ -5,7 +5,7 @@ html {
   
   body {
     margin-bottom: 80px;
-    background-image: url("../images/paper.png");
+    /* background-image: url("../images/paper.png"); */
   }
   
   .card a:not([href]):not([tabindex]).scrape-new {
@@ -47,8 +47,9 @@ html {
   
   .jumbotron .background-image {
     height: 100%;
-    background-image: url("../images/newspaper.jpg");
+    background-image: url("images/paper.png");
     background-size: cover;
+    background-repeat: no-repeat;
   }
   
   .jumbotron .caption {
@@ -82,12 +83,12 @@ html {
     margin: 20px 0;
   }
   
-  .card .card-header {
+  /* .card .card-header {
     background-color: #2196f3;
     position: relative;
     padding-top: 30px;
     padding-bottom: 30px;
-  }
+  } */
   
   .card .card-header h3 {
     color: white;
@@ -166,5 +167,16 @@ html {
   .note.list-group-item .btn {
     position: relative;
     bottom: 10px;
+  }
+
+  .btn-note {
+    
+  }
+
+  .note-text {
+    font-style: italic;
+    margin-left: 20px;
+    border-left: solid #cacaca 5px;
+    padding-left: 5px;
   }
   
