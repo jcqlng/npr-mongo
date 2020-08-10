@@ -1,12 +1,12 @@
-# npr-mongo
+# 🍃 npr-mongo 🍃
 An application that scrapes articles from NPR and allows you to leave notes. 
 
-# 📝 Description 📝
+## 📝 Description 📝
 Link to the site: https://npr-scraper-jg.herokuapp.com/
 
 In this application I created a web application that uses MongoDB to scrape the NPR website. I used MongoDB as the database. 
 
-# ⛓️ Technologies / Dependencies ⛓️	
+## ⛓️ Technologies / Dependencies ⛓️	
 * 👾  NPM packages:
      - express
      - mongoose 
@@ -18,7 +18,7 @@ In this application I created a web application that uses MongoDB to scrape the 
 * 👾  JavaScript
 * 👾  HTML / CSS / Bootstrap / Bootswatch 
 
-# 🔗 Links and Resources 🔗
+## 🔗 Links and Resources 🔗
 
 * 💻	  Assistance with declaring defaults in schema [MongooseJS](https://mongoosejs.com/docs/defaults.html#declaring-defaults-in-your-schema) 
 * 💻    Help with removing all documents from a collection with [Mongoose](https://stackoverflow.com/questions/28139638/how-can-you-remove-all-documents-from-a-collection-with-mongoose)
