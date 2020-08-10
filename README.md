@@ -23,7 +23,7 @@ In this application I created a web application that uses MongoDB to scrape the 
 * 💻	  Assistance with declaring defaults in schema [MongooseJS](https://mongoosejs.com/docs/defaults.html#declaring-defaults-in-your-schema) 
 * 💻    Help with removing all documents from a collection with [Mongoose](https://stackoverflow.com/questions/28139638/how-can-you-remove-all-documents-from-a-collection-with-mongoose)
 * 💻    For news articles on official [NPR site](https://www.npr.org/sections/news/)
-* 💻    For [jQuery data attribute] (https://www.codegrepper.com/code-examples/javascript/jquery+get+data+attribute)
+* 💻    For [jQuery data attribute](https://www.codegrepper.com/code-examples/javascript/jquery+get+data+attribute)
 * 💻    
 
 
